@@ -25,7 +25,7 @@
 ## Usage
 
 - The link to the application is provided below
-<https://won-shy.github.io/react-portfolio/>
+<won-shy-react-portfolio.netlify.app>
 
 ![]()
 
