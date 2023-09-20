@@ -14,6 +14,18 @@ export default function Projects() {
                 </div>
 
             </p>
+            <p>
+                <div id="project-3">
+                    <a href="https://github.com/won-shy/fitness-app">
+                        <h2>Tone</h2>
+                    </a>
+                    <p>Fitness app that allows users to create their own customized workout plan along with music from Spotify. </p>
+                    <li> Where your body finds its rhythm. </li>
+                    <li> Lead project idea and design.</li>
+                    <li> Tools/Languages: React, Javascript, MongoDB, Mongoose ODM, GraphQL, JWT, 3rd Party APIs</li>
+                </div>
+
+            </p>
         </div>
     );
 }
